@@ -6,6 +6,7 @@ Overview
 A Python-based security log analyzer that processes authentication logs to identify potentially suspicious login activity.This project demonstrates Python scripting, file handling, data analysis, and basic security detection techniques.
 
 Features
+
 Log parsing: Reads authentication records from a text file and converts them into structured data.
 User analysis: Calculates successful and failed login attempts for each user.
 Failure-rate detection: Flags accounts whose login failure rates exceed a configurable threshold.
@@ -15,12 +16,14 @@ Time-window detection: Detects bursts of failed logins within a configurable tim
 Alert generation: Reports potentially suspicious users and IP addresses.
 
 Technologies
+
 Python 3
 datetime module
 Dictionaries, lists, loops, and functions
 File handling and string parsing
 
 How to Run
+
 1. Install Python 3.
 2. Place security_log_analyzer.py and sample_auth.log in the same directory.
 3. Run the script
@@ -28,6 +31,7 @@ How to Run
 4. Review the login statistics and alerts printed to the terminal.
 
 Detection Logic
+
 The analyzer uses configurable thresholds to identify unusual login behavior. The time-window detector examines failed login attempts from each IP address and flags activity that exceeds the configured failure threshold within the specified time interval.
 
 Limitations
