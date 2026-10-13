@@ -1,0 +1,17 @@
+2026-09-19 10:03:12 user=admin ip=10.0.0.55 result=failed
+2026-09-19 10:03:18 user=admin ip=10.0.0.55 result=failed
+2026-09-19 10:03:25 user=admin ip=10.0.0.55 result=failed
+2026-09-19 10:03:31 user=admin ip=10.0.0.55 result=failed
+2026-09-19 10:03:39 user=admin ip=10.0.0.55 result=failed
+2026-09-19 11:42:10 user=alice ip=203.0.113.50 result=failed
+2026-09-19 11:42:21 user=alice ip=203.0.113.50 result=success
+
+2026-09-19 12:00:00 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:00:15 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:00:30 user=bob ip=198.51.100.25 result=failed
+
+2026-09-19 12:00:00 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:00:20 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:00:40 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:00:50 user=bob ip=198.51.100.25 result=failed
+2026-09-19 12:15:00 user=bob ip=198.51.100.25 result=failed
