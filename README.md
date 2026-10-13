@@ -35,7 +35,9 @@ Detection Logic
 The analyzer uses configurable thresholds to identify unusual login behavior. The time-window detector examines failed login attempts from each IP address and flags activity that exceeds the configured failure threshold within the specified time interval.
 
 Limitations
+
 This project uses sample authentication logs and simple threshold-based detefction rules. Alerts indicate potetnially suspicous activity and require further investigation, they do not independently establish that an attack occurred.
 
 Purpose
+
 Built as a cybersecurity portfolio project to practice Python programming, authentication log analysis, and basic security monitoring concepts.
