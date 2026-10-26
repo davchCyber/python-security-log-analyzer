@@ -17,9 +17,9 @@ Alert generation: Reports potentially suspicious users and IP addresses.
 
 Technologies
 
-Python 3
-datetime module
-Dictionaries, lists, loops, and functions
+Python 3,
+datetime module,
+Dictionaries, lists, loops, and functions,
 File handling and string parsing
 
 How to Run
