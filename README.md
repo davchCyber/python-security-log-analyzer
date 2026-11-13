@@ -36,7 +36,7 @@ The analyzer uses configurable thresholds to identify unusual login behavior. Th
 
 Limitations
 
-This project uses sample authentication logs and simple threshold-based detefction rules. Alerts indicate potetnially suspicous activity and require further investigation, they do not independently establish that an attack occurred.
+This project uses sample authentication logs and simple threshold-based detection rules. Alerts indicate potetnially suspicous activity and require further investigation, they do not independently establish that an attack occurred.
 
 Purpose
 
